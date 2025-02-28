@@ -43,9 +43,9 @@ const handleMouseLeave = (box) => {
 .container {
   display: flex;
   flex-wrap: wrap; /* 讓正方形自動換行 */
+  justify-content: flex-start;
   gap: 10px; /* 設定間距 */
-  justify-content: center;
-  max-width: 90vw;
+  max-width: 100vw;
   padding: 20px;
 }
 
@@ -55,4 +55,5 @@ const handleMouseLeave = (box) => {
   background-color: gray; /* 預設顏色 */
   transition: background-color 0.3s;
 }
+
 </style>
