@@ -1,6 +1,6 @@
 # WeBIM 面試考題
 
-- 請使用typescript與vue conposition api實作以下題目
+- 請使用typescript與vue composition api實作以下題目
 - 專案已引用vueitfy, 可使用vueitfy元件實作畫面
 
 ## 題目：設計一個動物系統（Animal System）
